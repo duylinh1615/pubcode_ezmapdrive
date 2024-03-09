@@ -372,5 +372,4 @@ preview_button.grid(row=5, column=2, padx=10, pady=10)
 
 # Call the show_shared_paths function to update the shared paths initially
 show_shared_paths()
-
 window.mainloop()
