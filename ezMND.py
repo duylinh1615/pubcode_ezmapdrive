@@ -12,7 +12,7 @@ from tkinter import ttk
 
 def show_guide():
     guide_text = "Hướng dẫn:\n\n"\
-                 "- 10.100.x.x - a share scan folder\n"\
+                 "- 10.100.xx.xx - a share scan folder\n"\
                  "- Map folder tổng - để gắn cả folder chung vào máy\n"\
                  "- Map thư mục đã chọn - để gắn từng thư mục vào máy\n"\
                  "- Import Link Folder để dán link ổ chung và map ổ\n"\
