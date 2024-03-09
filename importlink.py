@@ -48,4 +48,5 @@ submit_button.pack(pady=20)
 result_label = tk.Label(window, text="")
 result_label.pack(pady=20)
 
+# Start the main event loop
 window.mainloop()
