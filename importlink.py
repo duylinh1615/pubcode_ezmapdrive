@@ -36,7 +36,7 @@ window = tk.Tk()
 window.title("Map ổ")
 
 # Create and place widgets in the window
-label = tk.Label(window, text="Dán Link vào ô dưới để map ổ \n(Link có dạng \\\\10.105.8.93\\folder1\\folder2 \n Hoặc \\\\hobofsv03\\folder1\\folder2):")
+label = tk.Label(window, text="Dán Link vào ô dưới để map ổ \n(Link có dạng \\\\10.100.x.x\\folder1\\folder2 \n Hoặc \\\\hostname\\folder1\\folder2):")
 label.pack(pady=20)
 
 entry = scrolledtext.ScrolledText(window, width=60, height=1, wrap=tk.WORD)
